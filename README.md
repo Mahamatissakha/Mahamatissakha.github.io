@@ -21,4 +21,4 @@
 
 ---
 
-**⚠️ IMPORTANT :** Le portfolio n'est PAS dans ce README. Il est dans le fichier `index.html` de ce repository.
+**⚠️ IMPORTANT :** Le portfolio n'est PAS dans ce READMe.
